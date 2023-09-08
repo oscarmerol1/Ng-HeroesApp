@@ -1,0 +1,7 @@
+
+{
+  "/Pizza": {
+ "target": "https://localhost:7213",
+ "secure": false
+ }
+ }

@@ -9,6 +9,6 @@
 
 ## Code
 1. Editar README.md
-2. Buscar ``>Markdown:Open Preview``
+2. Estar en el README.md y buscar ``>Markdown:Open Preview``
 3. Interface ``>Paste JSON as Code``
 
